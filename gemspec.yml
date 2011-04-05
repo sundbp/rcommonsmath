@@ -1,6 +1,6 @@
 name: rcommonsmath
-summary: "TODO: Summary"
-description: "TODO: Description"
+summary: "Thin jruby wrapper for commons-math"
+description: "A thin jruby wrapper for commons-math (mainly just a way to load the jars in a structured way for now)"
 license: MIT
 authors: Patrik Sundberg
 homepage: http://rubygems.org/gems/rcommonsmath
