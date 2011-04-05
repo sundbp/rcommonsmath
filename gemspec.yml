@@ -1,0 +1,11 @@
+name: rcommonsmath
+summary: "TODO: Summary"
+description: "TODO: Description"
+license: MIT
+authors: Patrik Sundberg
+homepage: http://rubygems.org/gems/rcommonsmath
+has_yard: true
+
+development_dependencies:
+  bundler: ~> 1.0.0
+  yard: ~> 0.6.0
