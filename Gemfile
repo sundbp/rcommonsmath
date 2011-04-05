@@ -1,6 +1,6 @@
 source :rubygems
 
-gemspec
+#gemspec
 
 group :development do
   gem 'rake',     '~> 0.8.7'
